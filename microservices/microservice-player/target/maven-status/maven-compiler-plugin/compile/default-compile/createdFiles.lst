@@ -1,0 +1,5 @@
+com/eldermoraes/microservice/player/entities/Player.class
+com/eldermoraes/microservice/player/beans/PlayerBean.class
+com/eldermoraes/microservice/player/service/PlayerService.class
+com/eldermoraes/microservice/player/entities/Player_.class
+com/eldermoraes/microservice/player/service/ApplicationConfig.class

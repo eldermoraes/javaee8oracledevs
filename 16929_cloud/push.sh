@@ -1,1 +1,0 @@
-docker push eldermoraes/javaeedocker

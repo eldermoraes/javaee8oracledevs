@@ -1,0 +1,5 @@
+com/eldermoraes/microservice/rank/service/ApplicationConfig.class
+com/eldermoraes/microservice/rank/entities/PlayerRankHistory_.class
+com/eldermoraes/microservice/rank/entities/PlayerRankHistory.class
+com/eldermoraes/microservice/rank/service/PlayerRankHistoryService.class
+com/eldermoraes/microservice/rank/beans/PlayerRankHistoryBean.class
